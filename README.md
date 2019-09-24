@@ -1,4 +1,6 @@
-# UserTracker
+# UserTracker [WIP]
+
+This is a personal project where the Active blood donors will be mapped on Javascript Maps API with real time Firebase Database.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
